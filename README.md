@@ -8,7 +8,7 @@ It runs seamlessly in **Google Colab**, handling headings, bullets, checkboxes, 
 
 ## Deliverables
 
--   **Public GitHub Repository:** _(Add your repo link here)_
+-   **Public GitHub Repository:** [GitHub Repo Link](https://github.com/spshah1701/markdown-googledoc-converter)
 -   **Included Files:**
     -   `Markdown_to_GoogleDoc.ipynb` — working Colab notebook    
     -   `meeting.md` — sample markdown input file
